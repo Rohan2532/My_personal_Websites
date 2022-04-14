@@ -1,0 +1,216 @@
+!DOCTYPE html
+html lang=en
+head
+    meta charset=UTF-8
+    meta name=viewport content=width=device-width, initial-scale=1.0
+    link rel=stylesheet href=cssstyle.css
+    titleRohan Chaudharytitle
+head
+body
+    !-- Header --
+    section id=header
+        div class=header container
+            div class=nav-bar
+                div class=brand
+                    a href=#heroh1spanRspanohan spanCspanhaudharyh1a
+                div
+            div class=nav-list
+                div class=hamburgerdiv class=bardivdiv
+                    ul
+                        lia href=#hero data-after=HomeHomeali
+                        lia href=#services data-after=ServiceStudy Materialali
+                        lia href=#projects data-after=ProjectsBooksali
+                        lia href=#about data-after=AboutAboutali
+                        lia href=#contact data-after=ContactContactali
+                    ul
+                div
+            div
+        div
+    section
+    !-- End Header --
+    
+    !-- Hero Section  --
+    section id=hero
+        div class=hero container
+            div
+                h1Hello, spanspanh1
+                h1My Name is spanspanh1
+                h1Rohan spanspanh1
+                a href=#projects type=button class=ctaRead Booksa
+            div
+        div
+    section
+    !-- End Hero Section  --
+
+    !-- Service Section --
+    section id=services
+        div class=services container
+            div class=service-top
+                h1 class=section-titleStudyspanMspanaterialh1
+                pLorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum deleniti maiores pariatur assumenda quas magni et, doloribus quod voluptate quasi molestiae magnam officiis dolorum, dolor provident atque molestias voluptatum explicabo!p
+            div
+            div class=service-bottom
+                div class=service-item
+                    div class=iconimg src=imgdownload (7).pngdiv
+                        a href= class=th2Class 12th Mathsh2
+                        pAccording to experts, today's Class 12 Maths paper was moderately difficult and lengthy. Central Board of Secondary Education (CBSE) held the Class 12 Maths paper today in various centres across the country and abroad. The teachers also said, overall, the Class 12 Maths paper was a well-balanced paperpa
+                    div
+                div class=service-item
+                    div class=iconimg src=imgdownload (8).pngdiv
+                    a href= class=th2Class 12th Chemh2
+                        pThe CBSE Class 12 Chemistry board exam was held today, on March 7, and Science stream students from all over India appeared for the same in various board exam centres across India. The Class 12 Chemistry paper is quite dreaded as the syllabus is long and many have problems with Organic Chemistry.pa
+                    div
+            div class=service-item
+            div class=iconimg src=imgdownload (2).jpgdiv
+            a href= class=th2Class 12th Physicsh2
+                pLucknow students found CBSE Class 12 Physics paper to be difficult and tad lengthy. Some children at Navyug Radiance School found the paper lengthy. They said 2 to 3 questions particularly numerical were tough. A good number of students of Delhi Public School, Jankipuram said question paper was not very easypa
+            div
+            div class=service-item
+                div class=iconimg src=imgdownload (9).pngdiv
+                a href= class=th2Class 12th CSh2
+                    pSome find Computer Science easy, while many face difficulty in the programming part. CBSE Class 12 Computer Science exam is scheduled to be held on March 21. ... Topics to focus on Object Oriented Programming, Data Structure and Pointers, Boolean Algebra and Communication and Open Source Concepts.pa
+                div
+            div
+        div
+    section
+    !-- End Service Section --
+
+    !-- Projects Section --
+  section id=projects
+    div class=projects container
+      div class=projects-header
+        h1 class=section-titleRecent spanBooksspanh1
+      div
+      div class=all-projects
+        div class=project-item
+          div class=project-info
+            h1Book 1h1
+            h2Think and Grow Richh2
+            pThis course is based on Hill's book and explores the 13 principles of success Desire, Faith, Auto-suggestion, Specialized Knowledge, Imagination, Organized Planning, Decision, Persistence, the Power of the Master Mind, the Mystery of Transmutation, the Subconscious Mind, the Brain, and the Sixth Sense.p
+          div
+          div class=project-img
+            img src=imgimages (1).jpg alt=img
+          div
+        div
+        div class=project-item
+          div class=project-info
+            h1Book 2h1
+            h2The Life of Alexander Hamiltonh2
+            pAlexander Hamilton, (born January 11, 175557, Nevis, British West Indies—died July 12, 1804, New York, New York, U.S.), New York delegate to the Constitutional Convention (1787), major author of the Federalist papers, and first secretary of the treasury of the United States (1789–95), who was the foremost champion ofp
+          div
+          div class=project-img
+            img src=imgdownload (5).jpg alt=img
+          div
+        div
+        div class=project-item
+          div class=project-info
+            h1Book 3h1
+            h2The Life of Mahatma Gandhih2
+            pMahatma Gandhi, byname of Mohandas Karamchand Gandhi, (born October 2, 1869, Porbandar, India—died January 30, 1948, Delhi), Indian lawyer, politician, social activist, and writer who became the leader of the nationalist movement against the British rule of India.p
+          div
+          div class=project-img
+            img src=imgdownload (4).jpg alt=img
+          div
+        div
+        div class=project-item
+          div class=project-info
+            h1Book 4h1
+            h2Rich and Poor Dadh2
+            pKiyosaki's Rich Dad, Poor Dad is a landmark among personal finance books, a best-seller that has sold millions of copies worldwide. Rich Dad Poor Dad has been inspirational to many people, but the book seems to have as many critics as champions. I liked the book because it is simple and easy to readp
+          div
+          div class=project-img
+            img src=imgdownload (3).jpg alt=img
+          div
+        div
+        div class=project-item
+          div class=project-info
+            h1Book 5h1
+            h2The Law of Successh2
+            pSuccess is not to have a life free of pitfalls and falls… but success is to walk over your mistakes and go beyond every stage where your efforts were wasted looking forward to the next stage. If there is a word that summarizes this world, it will simply be “Continue!” All over again……… Stay Inspired.p
+          div
+          div class=project-img
+            img src=imgimages (2).jpg alt=img
+          div
+        div
+      div
+    div
+  section
+  !-- End Projects Section --
+
+  !-- About Section --
+  section id=about
+    div class=about container
+      div class=col-left
+        div class=about-img
+          img src=img20210809_142558.jpg alt=img
+        div
+      div
+      div class=col-right
+        h1 class=section-titleAbout spanmespanh1
+        h2Class 12th Studenth2
+        pMyself Rohan Chaudhary, I am the students of class 12th PCM with additional subject - Computer Science. And I also like coding and I know many programming languages and doing some new project. Thank You very much for visit my website and If you are intrested in me and mm knowledge then Download the following file.p
+        a href=# class=ctaDownloada
+      div
+    div
+  section
+  !-- End About Section --
+
+  !-- Contact Section --
+  section id=contact
+    div class=contact container
+      divh1 class=section-titleContact spaninfospanh1div
+      div class=contact-items
+        div class=contact-item
+          div class=iconimg src=imgdownload.pngdiv
+          div class=contact-info
+            h1Phone No. h1
+            h2+91 9457986280h2
+          div
+        div
+        div class=contact-item
+          div class=iconimg src=imgdownload (2).pngdiv
+          div class=contact-info
+            h1G-mailh1
+            h2rohanchauhdhary2532004@gmail.comh2
+            h2rohan2532004@gmail.comh2
+          div
+        div
+        div class=contact-item
+          div class=iconimg src=imgdownload (3).pngdiv
+          div class=contact-info
+            h1Addressh1
+            h2Address is Private. Sorryh2
+          div
+        div
+      div
+    div
+  section
+  !-- End Contact Section --
+
+  !-- Footer --
+  section id=footer
+    div class=footer container
+      div class=brandh1spanRspanohan spanCspanhaudharyh1div
+      h2Thank You very muchh2
+      div class=social-icon
+        div class=social-item
+          a href=#img src=imgdownload (5).pnga
+        div
+        div class=social-item
+          a href=httpswww.instagram.comrohanchaudhary67 target=_blankimg src=imgdownload.jpga
+        div
+        div class=social-item
+          a href=httpstwitter.comRohanKumar6767 target=_blankimg src=imgdownload (6).pnga
+        div
+        div class=social-item
+          a href=httpswww.youtube.comchannelUCEw8R1Hv1OqJu8-qS7BkSKw target=_blankimg src=imgimages.jpga
+        div
+      div
+      pCopyright © 2021 Rohan. All rights reservedp
+    div
+  section
+  !-- End Footer --
+  script src=homejs.jsscript
+
+body
+html
